@@ -1,0 +1,5 @@
+DOC2026001|Dr. Sharma|55|MALE|9876543210|Cardiologist|101|Monday to Friday, 10 AM - 5 PM
+DOC2026002|Dr. Amit Roy|45|Male|9988776655|Neurologist|102|Monday to Saturday, 10 AM - 4 PM
+DOC2026003|Dr. Sneha Das|38|Female|9090909090|General Physician|103|Monday to Friday, 9 AM - 3 PM
+DOC2026004|Dr. Vikram Singh|50|Male|9811122233|Orthopedic|104|Tuesday to Saturday, 11 AM - 5 PM
+DOC2026005|Dr. Priya Mehta|35|Female|9876501234|Dermatologist|105|Monday to Friday, 12 PM - 6 PM

@@ -1,0 +1,5 @@
+HSP2026002|Ani Das|44|Male|9764361937|A-|Back Pain|Chennai
+HSP2026003|Suman Ghosh|33|Male|9976543569|A+|Fever|Garhbeta,West Bengal
+HSP20261001|Rahul Sen|28|Male|9876543210|B+|Cold|Kolkata
+HSP20261002|Priya Sharma|25|Female|9123456780|O+|Migraine|Delhi
+HSP20261003|Amit Roy|41|Male|9988776655|AB+|Diabetes|Mumbai
