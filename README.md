@@ -136,15 +136,46 @@ g++ -std=c++17 -Wall -Wextra main.cpp patient.cpp doctor.cpp appointment.cpp bil
 
 ## Screenshots
 
-Add screenshots of your console output here:
+### Admin Login
+![Admin Login](screenshots/admin-login.png)
 
-```text
-screenshots/
-|-- admin-login.png
-|-- main-menu.png
-|-- patient-search.png
-`-- final-bill.png
-```
+### Main Menu
+![Main Menu](screenshots/main-menu.png)
+
+### Patient Management
+![Patient Management](screenshots/patient-management-menu.png)
+
+### Patient List
+![Patient List](screenshots/patient-list.png)
+
+### Doctor Management
+![Doctor Management](screenshots/doctor-management-menu.png)
+
+### Doctor List
+![Doctor List](screenshots/doctor-list.png)
+
+### Appointment Management
+![Appointment Management](screenshots/appointment-management-menu.png)
+
+### Appointment List
+![Appointment List](screenshots/appointment-list.png)
+
+### Billing Management
+![Billing Management](screenshots/billing-management-menu.png)
+
+### Bill List
+![Bill List](screenshots/bill-list.png)
+
+### Export Bill
+![Export Bill](screenshots/export-bill.png)
+
+### Final Printed Bill
+![Final Bill](screenshots/final-bill.png)
+
+### Bills By Patient
+![Bills By Patient](screenshots/view-bills-by-patient.png)
+
+
 
 ## Future Improvements
 
